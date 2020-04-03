@@ -39,7 +39,7 @@
                 <div class="form-group">
                     <label class="col-lg-4 control-label" data-toggle="tooltip" title="Version Abeille.">{{Version Abeille : }}</label>
                     <div class="col-lg-4">
-                        Master
+                        Beta du 4/4/2020
                     </div>
                 </div>
             </div>
